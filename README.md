@@ -1,3 +1,7 @@
+# 2026-summer-8-Multi-AI-agents-in-the-Clinica-Process-Management
+
+Xiner Shen - 300462652
+
 # Clinical Reasoning Dashboard
 
 A realtime, voice-driven clinical interview assistant. The doctor or patient speaks into the browser; OpenAI's Realtime API streams back voice and live transcripts, and the conversation can be summarised and saved as a visit record.
